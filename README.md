@@ -2,7 +2,11 @@
 My name is Shivadeep and I'm a PlayWright Web/API Automation engineer. I'm from Mandya, living in Bangalore. You can find me on Twitter, or on LinkedIn.
 
 🔧 Technologies & Tools
-            
+OS
+OS
+Linux
+Linux
+                        
 
 ✍ Blog & Writing
 
