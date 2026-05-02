@@ -1,4 +1,10 @@
 ## Hi there 👋
+My name is Shivadeep and I'm a PlayWright Web/API Automation engineer. I'm from Mandya, living in Bangalore. You can find me on Twitter, or on LinkedIn.
+
+🔧 Technologies & Tools
+            
+
+✍ Blog & Writing
 
 <!--
 **Shivdeepu/Shivdeepu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
